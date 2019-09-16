@@ -1,0 +1,21 @@
+c:\users\koray\documents\visual studio 2017\Projects\Görüntü İşleme Editörü\Görüntü İşleme Editörü\bin\Debug\Görüntü İşleme Editörü.exe.config
+c:\users\koray\documents\visual studio 2017\Projects\Görüntü İşleme Editörü\Görüntü İşleme Editörü\bin\Debug\Görüntü İşleme Editörü.exe
+c:\users\koray\documents\visual studio 2017\Projects\Görüntü İşleme Editörü\Görüntü İşleme Editörü\bin\Debug\Görüntü İşleme Editörü.pdb
+c:\users\koray\documents\visual studio 2017\Projects\Görüntü İşleme Editörü\Görüntü İşleme Editörü\obj\Debug\Görüntü İşleme Editörü.csprojResolveAssemblyReference.cache
+c:\users\koray\documents\visual studio 2017\Projects\Görüntü İşleme Editörü\Görüntü İşleme Editörü\obj\Debug\Görüntü_İşleme_Editörü.Form1.resources
+c:\users\koray\documents\visual studio 2017\Projects\Görüntü İşleme Editörü\Görüntü İşleme Editörü\obj\Debug\Görüntü_İşleme_Editörü.Properties.Resources.resources
+c:\users\koray\documents\visual studio 2017\Projects\Görüntü İşleme Editörü\Görüntü İşleme Editörü\obj\Debug\Görüntü İşleme Editörü.csproj.GenerateResource.Cache
+c:\users\koray\documents\visual studio 2017\Projects\Görüntü İşleme Editörü\Görüntü İşleme Editörü\obj\Debug\Görüntü İşleme Editörü.exe
+c:\users\koray\documents\visual studio 2017\Projects\Görüntü İşleme Editörü\Görüntü İşleme Editörü\obj\Debug\Görüntü İşleme Editörü.pdb
+C:\Users\Koray\Documents\Visual Studio 2017\Projects\Görüntü İşleme Editörü\Görüntü İşleme Editörü\obj\Debug\Görüntü_İşleme_Editörü.Form2.resources
+K:\MU2\MU2\PROJELER\130201004_130201043\130201004_130201043\Görüntü İşleme Editörü\Görüntü İşleme Editörü\bin\Debug\Görüntü İşleme Editörü.exe.config
+K:\MU2\MU2\PROJELER\130201004_130201043\130201004_130201043\Görüntü İşleme Editörü\Görüntü İşleme Editörü\bin\Debug\Görüntü İşleme Editörü.exe
+K:\MU2\MU2\PROJELER\130201004_130201043\130201004_130201043\Görüntü İşleme Editörü\Görüntü İşleme Editörü\bin\Debug\Görüntü İşleme Editörü.pdb
+K:\MU2\MU2\PROJELER\130201004_130201043\130201004_130201043\Görüntü İşleme Editörü\Görüntü İşleme Editörü\obj\Debug\Görüntü İşleme Editörü.csprojAssemblyReference.cache
+K:\MU2\MU2\PROJELER\130201004_130201043\130201004_130201043\Görüntü İşleme Editörü\Görüntü İşleme Editörü\obj\Debug\Görüntü_İşleme_Editörü.Form1.resources
+K:\MU2\MU2\PROJELER\130201004_130201043\130201004_130201043\Görüntü İşleme Editörü\Görüntü İşleme Editörü\obj\Debug\Görüntü_İşleme_Editörü.Form2.resources
+K:\MU2\MU2\PROJELER\130201004_130201043\130201004_130201043\Görüntü İşleme Editörü\Görüntü İşleme Editörü\obj\Debug\Görüntü_İşleme_Editörü.Properties.Resources.resources
+K:\MU2\MU2\PROJELER\130201004_130201043\130201004_130201043\Görüntü İşleme Editörü\Görüntü İşleme Editörü\obj\Debug\Görüntü İşleme Editörü.csproj.GenerateResource.cache
+K:\MU2\MU2\PROJELER\130201004_130201043\130201004_130201043\Görüntü İşleme Editörü\Görüntü İşleme Editörü\obj\Debug\Görüntü İşleme Editörü.csproj.CoreCompileInputs.cache
+K:\MU2\MU2\PROJELER\130201004_130201043\130201004_130201043\Görüntü İşleme Editörü\Görüntü İşleme Editörü\obj\Debug\Görüntü İşleme Editörü.exe
+K:\MU2\MU2\PROJELER\130201004_130201043\130201004_130201043\Görüntü İşleme Editörü\Görüntü İşleme Editörü\obj\Debug\Görüntü İşleme Editörü.pdb
